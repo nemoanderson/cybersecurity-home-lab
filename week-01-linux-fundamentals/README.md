@@ -1,6 +1,4 @@
-Home Lab — Linux & Cybersecurity Fundamentals
-
-#Intro
+# Home Lab — Linux & Cybersecurity Fundamentals
 
 ## Week 1 Lab Documentation
 
